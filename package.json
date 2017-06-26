@@ -21,6 +21,7 @@
     "bluebird": "^3.5.0",
     "dotenv": "^4.0.0",
     "express": "^4.14.0",
+    "moment": "^2.18.1",
     "node-trello": "^1.2.1",
     "nodemon": "^1.11.0",
     "slapp": "^2.1.0",
